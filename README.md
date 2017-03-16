@@ -1,5 +1,5 @@
 # wemux_sh
-Stupid script to confine a user account to connecting to a wemux session only
+Stupid script to confine a user account to connecting to a wemux session only. So tiny it could be a gist but I always forget to look there. 
 
 ### Instructions 
 
